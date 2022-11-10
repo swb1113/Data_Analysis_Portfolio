@@ -1,6 +1,7 @@
 /*
 Covid 19 Exploratory Data Analysis 
 Skills used: Joins, CTE's, Temp Tables, Aggregate Functions, Windows Functions, Creating Views, Converting Data Types
+Dataset obtained from: https://ourworldindata.org/covid-deaths  
 */
 
 SELECT *

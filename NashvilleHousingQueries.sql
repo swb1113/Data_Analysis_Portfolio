@@ -2,6 +2,11 @@
 
 Cleaning Data in SQL Server
 
+Dataset used: Nashville Housing Data for Data Cleaning.xlsx (located in 
+DA_PortfolioProjects Repository)
+
+SangwonBaek
+
 */
 
 Select * 

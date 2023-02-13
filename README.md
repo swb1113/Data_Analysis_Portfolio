@@ -34,4 +34,4 @@ This repository serves as a showcase of my skills, a platform to display my proj
 **Description**: The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies). The dataset contains 7668 movie records including Name, Director, Rating, Year, Budget, and gross (revenue). This project involved the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing correlation matrix.  
 **Skills**: Data cleaning, data analysis, pearson correlation matrix, data visualization.  
 **Technology**: Python, Pandas, Seaborn, Matplotlib, Jupyter Notebooks.  
-**Results**: Analyzed the dataset and created a pearson correlation matrix to determine the correlation between movie attributes to discover meaninful insights.
+**Results**: Analyzed the dataset and created a pearson correlation matrix to determine the correlation between movie attributes to discover meaningful insights.

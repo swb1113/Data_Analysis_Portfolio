@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-This Repository contains the SQL queries and code involved in all my data analysis portfolio projects. 
+This repository serves as a showcase of my skills, a platform to display my projects, and a means of monitoring my advancement in Data Analytics and Data Science subjects.
 
 Data Analysis Projects:
 1. SQLQuery_covid_data_exploration.sql --> Utilized a variety of SQL query techniques to conduct exploratory analysis of a covid-19 dataset (found on: https://ourworldindata.org/covid-deaths). SQL query skills used: Joins, CTE's, Temp Tables, Aggregate Functions, Windows Functions, Creating Views, and Converting Data Types. Oct/2022

@@ -7,10 +7,11 @@ Portfolio Projects:
 ## Covid Data Analysis
 
 **Code**: [SQLQuery_covid_data_exploration.sql](https://github.com/swb1113/Data_Analysis_Portfolio#:~:text=6%20minutes%20ago-,SQLQuery_covid_data_exploration.sql,-Update%20SQLQuery_covid_data_exploration.sql) 
-**Description**: 
-**Skills**:
-**Technology**: 
-**Results**: 
+
+**Description**: The dataset was obtained from [ourworldindata.org](https://ourworldindata.org/covid-deaths). The dataset contains 257016 records as of February 13, 2023. Utilized a variety of SQL query techniques to conduct exploratory analysis of the dataset. 
+**Skills**: Data analysis, SQL: Joins, CTE's, Temp Tables, Aggregate Functions, Windows Functions, Creating Views, and Converting Data Types.
+**Technology**: Microsoft SQL Server Management Studio
+**Results**: Review of global covid infection, death, and vaccine rates. 
 
 
 

@@ -2,9 +2,9 @@
 
 This repository serves as a showcase of my skills, a platform to display my projects, and a means of monitoring my advancement in Data Analytics and Data Science subjects.
 
-Portfolio Projects:
+## Portfolio Projects:
 
-## Covid Data Analysis
+### Covid Data Analysis
 
 **Code**: [SQLQuery_covid_data_exploration.sql](https://github.com/swb1113/Data_Analysis_Portfolio#:~:text=6%20minutes%20ago-,SQLQuery_covid_data_exploration.sql,-Update%20SQLQuery_covid_data_exploration.sql) 
 

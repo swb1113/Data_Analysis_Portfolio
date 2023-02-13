@@ -6,7 +6,7 @@ Portfolio Projects:
 
 ## Covid Data Analysis
 
-**Code**: [SQLQuery_covid_data_exploration.sql] (https://github.com/swb1113/Data_Analysis_Portfolio#:~:text=6%20minutes%20ago-,SQLQuery_covid_data_exploration.sql,-Update%20SQLQuery_covid_data_exploration.sql) 
+**Code**: [SQLQuery_covid_data_exploration.sql](https://github.com/swb1113/Data_Analysis_Portfolio#:~:text=6%20minutes%20ago-,SQLQuery_covid_data_exploration.sql,-Update%20SQLQuery_covid_data_exploration.sql) 
 **Description**: 
 **Skills**:
 **Technology**: 

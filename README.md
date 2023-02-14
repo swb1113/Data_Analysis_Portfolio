@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Data_Analysis_Portfolio
 
 This repository serves as a showcase of my skills, a platform to display my projects, and a means of monitoring my advancement in Data Analytics and Data Science subjects.
 
